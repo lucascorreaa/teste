@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas, o tal do Suporte</h1>
+<h1 align="center">Hi , I'm Lucas, o tal do Suporte</h1>
 <h3 align="center">A passionate frontend, backend and mobile developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascorreaa&label=Profile%20views&color=0e75b6&style=flat" alt="lucascorreaa" /> </p>
